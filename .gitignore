@@ -1,3 +1,6 @@
+install/
+log/
+.vscode/
 # Prerequisites
 *.d
 
